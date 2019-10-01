@@ -1,9 +1,6 @@
 # PiMeter
 Home Energy Metering using a Raspberry Pi 
 
-# PiMeter
-Home Energy Metering using a Raspberry Pi 
-
 
 Simple way to use a raspberry pi to monitor electric and or gas meters using the flashing led indicator. 
 This will be updated when after significant changes (when I remember to). But for now it's a starting point. I am new to software so there are probably much better ways to do this. But for me it works.  
